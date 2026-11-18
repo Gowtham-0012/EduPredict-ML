@@ -1,0 +1,15 @@
+{
+  "features": [
+    "study_hours",
+    "attendance",
+    "previous_marks",
+    "sleep_hours"
+  ],
+  "accuracy": 0.8972,
+  "samples": 1800,
+  "dataset": "Synthetic demonstration data",
+  "class_labels": {
+    "0": "Needs improvement",
+    "1": "Likely pass"
+  }
+}
